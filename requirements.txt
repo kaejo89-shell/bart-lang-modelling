@@ -1,0 +1,15 @@
+tokenizers
+torch
+transformers
+datasets
+evaluate
+comet_ml
+
+visionscaper-pybase
+numpy
+nltk
+opencv-python
+matplotlib
+scikit-learn
+tqdm
+python-dotenv
